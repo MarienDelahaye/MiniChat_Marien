@@ -82,7 +82,7 @@ $reponse->closeCursor();
           </div>
           <div class="footer-copyright">
             <div class="container">
-            Réaliser par Marien en 2017
+            Réalisé par Marien
             <a class="grey-text text-lighten-4 right" href=""></a>
             </div>
           </div>
